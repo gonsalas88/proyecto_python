@@ -1,0 +1,4 @@
+Notas: [7.0, 8.0, 5.0, 6.0]
+Promedio: 6.5
+Nota mas alta: 8.0
+Nota mas baja: 5.0
